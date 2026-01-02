@@ -1,0 +1,50 @@
+[
+  {
+    "model": "yolov8n-pose-cuda",
+    "video": "indoor_01.mp4",
+    "num_frames": 9586,
+    "total_time_sec": 403.6658768951893,
+    "avg_fps": 23.747362729124063,
+    "avg_ms_per_frame": 42.109939171206896
+  },
+  {
+    "model": "yolov8n-pose-cuda",
+    "video": "outdoor_01.mp4",
+    "num_frames": 330,
+    "total_time_sec": 9.77548179985024,
+    "avg_fps": 33.757926898810815,
+    "avg_ms_per_frame": 29.622672120758306
+  },
+  {
+    "model": "movenet-lightning-onnx-cuda",
+    "video": "indoor_01.mp4",
+    "num_frames": 9586,
+    "total_time_sec": 305.0510529942112,
+    "avg_fps": 31.424248190291966,
+    "avg_ms_per_frame": 31.82255925247352
+  },
+  {
+    "model": "movenet-lightning-onnx-cuda",
+    "video": "outdoor_01.mp4",
+    "num_frames": 330,
+    "total_time_sec": 4.815801899996586,
+    "avg_fps": 68.52441334852955,
+    "avg_ms_per_frame": 14.593339090898745
+  },
+  {
+    "model": "rtmpose-tiny-cuda",
+    "video": "indoor_01.mp4",
+    "num_frames": 9586,
+    "total_time_sec": 557.8951822011732,
+    "avg_fps": 17.18243911370318,
+    "avg_ms_per_frame": 58.1989549552653
+  },
+  {
+    "model": "rtmpose-tiny-cuda",
+    "video": "outdoor_01.mp4",
+    "num_frames": 330,
+    "total_time_sec": 10.88205699971877,
+    "avg_fps": 30.325149005241226,
+    "avg_ms_per_frame": 32.975930302178085
+  }
+]

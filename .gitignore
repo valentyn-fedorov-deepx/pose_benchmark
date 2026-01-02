@@ -1,0 +1,7 @@
+.venv/
+models/
+output/keypoints/
+videos/
+__pycache__/
+*.zip
+*.mp4

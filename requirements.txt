@@ -1,0 +1,8 @@
+torch
+ultralytics
+onnxruntime-gpu
+opencv-python
+numpy
+tqdm
+rtmlib
+matplotlib

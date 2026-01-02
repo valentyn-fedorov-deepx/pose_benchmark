@@ -1,0 +1,56 @@
+[
+  {
+    "profile": "center_roi",
+    "model": "yolov8n-pose-cuda_full",
+    "video": "indoor_01.mp4",
+    "num_frames": 9586,
+    "total_time_sec": 402.0441719038645,
+    "avg_fps": 23.843151250286432,
+    "avg_ms_per_frame": 41.940764855400005
+  },
+  {
+    "profile": "center_roi",
+    "model": "movenet-lightning-onnx-cuda_centerroi",
+    "video": "indoor_01.mp4",
+    "num_frames": 9586,
+    "total_time_sec": 307.48291910160333,
+    "avg_fps": 31.175715477165884,
+    "avg_ms_per_frame": 32.07624860229536
+  },
+  {
+    "profile": "center_roi",
+    "model": "rtmpose-tiny-cuda_centerroi",
+    "video": "indoor_01.mp4",
+    "num_frames": 9586,
+    "total_time_sec": 409.516728307819,
+    "avg_fps": 23.408079175692546,
+    "avg_ms_per_frame": 42.720292959296785
+  },
+  {
+    "profile": "center_roi",
+    "model": "yolov8n-pose-cuda_full",
+    "video": "outdoor_01.mp4",
+    "num_frames": 330,
+    "total_time_sec": 5.484222198952921,
+    "avg_fps": 60.17261664981508,
+    "avg_ms_per_frame": 16.618855148342185
+  },
+  {
+    "profile": "center_roi",
+    "model": "movenet-lightning-onnx-cuda_centerroi",
+    "video": "outdoor_01.mp4",
+    "num_frames": 330,
+    "total_time_sec": 3.0083749995101243,
+    "avg_fps": 109.69377157227284,
+    "avg_ms_per_frame": 9.116287877303408
+  },
+  {
+    "profile": "center_roi",
+    "model": "rtmpose-tiny-cuda_centerroi",
+    "video": "outdoor_01.mp4",
+    "num_frames": 330,
+    "total_time_sec": 8.167200999800116,
+    "avg_fps": 40.40551959087041,
+    "avg_ms_per_frame": 24.74909393878823
+  }
+]
